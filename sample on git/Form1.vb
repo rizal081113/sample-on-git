@@ -10,5 +10,6 @@
         TextBox2.Text = ""
 
         MsgBox("okiew")
+        MsgBox("sample")
     End Sub
 End Class
