@@ -2,5 +2,8 @@
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         TextBox1.Text = ""
         TextBox2.Text = ""
+
+
+        MsgBox("okiew")
     End Sub
 End Class
