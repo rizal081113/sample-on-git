@@ -11,5 +11,6 @@
 
         MsgBox("okiew")
         MsgBox("sample")
+        MsgBox("sample 2")
     End Sub
 End Class
