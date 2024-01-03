@@ -4,7 +4,5 @@ line3
 
 
 new line nko pc
-.
-.
-.
-.
+
+new line 2 nko pc
